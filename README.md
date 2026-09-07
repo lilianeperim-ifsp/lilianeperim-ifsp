@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! Meu nome é Liliane 👋
 
-<!--
-**lilianeperim-ifsp/lilianeperim-ifsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia em Sistemas para Internet no IFSP
 
-Here are some ideas to get you started:
+💻 Desenvolvedora em formação com interesse em Desenvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- Python
+- C
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Desenvolvimento Web
+- Desenvolvimento Back-end
+
+## 🚀 Projetos
+
+🔹 Projeto Estoque IPCO  
+Sistema desenvolvido em C para gerenciamento de estoque.
+
+🔹 FanPage  
+Projeto de desenvolvimento web utilizando HTML e CSS.
+
+🔹 Signos  
+Aplicação desenvolvida em C para identificação de signos a partir da idade.
+
+## 🎯 Objetivo
+
+Atualmente busco uma oportunidade de estágio em TI,
+especialmente na área de Desenvolvimento de Software,
+onde possa aplicar meus conhecimentos e continuar aprendendo.
+
+## 📫 Contato
+
+LinkedIn - www.linkedin.com/in/liliane-perim
